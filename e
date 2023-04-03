@@ -1,6 +1,6 @@
 if game.PlaceId == 11103424163 then
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-local Window = OrionLib:MakeWindow({Name = "Heist Tycoon💰", HidePremium = false, IntroText = "Luxorry Hub", SaveConfig = true, ConfigFolder = "LuxFolder"})
+local Window = OrionLib:MakeWindow({Name = "Heist Tycoon💰 / https://discord.gg/6jVRkbARXf", HidePremium = false, IntroText = "Luxorry Hub", SaveConfig = true, ConfigFolder = "LuxFolder"})
 
 --Values
 _G.PayIncome = true
